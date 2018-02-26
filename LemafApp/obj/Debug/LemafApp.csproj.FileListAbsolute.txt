@@ -1,0 +1,7 @@
+C:\Users\wesle\source\repos\LemafApp\LemafApp\obj\Debug\LemafApp.csprojResolveAssemblyReference.cache
+C:\Users\wesle\source\repos\LemafApp\LemafApp\obj\Debug\LemafApp.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\LemafApp\LemafApp\bin\Debug\LemafApp.exe.config
+C:\Users\wesle\source\repos\LemafApp\LemafApp\bin\Debug\LemafApp.exe
+C:\Users\wesle\source\repos\LemafApp\LemafApp\bin\Debug\LemafApp.pdb
+C:\Users\wesle\source\repos\LemafApp\LemafApp\obj\Debug\LemafApp.exe
+C:\Users\wesle\source\repos\LemafApp\LemafApp\obj\Debug\LemafApp.pdb
